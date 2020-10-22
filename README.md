@@ -1,5 +1,5 @@
 ####企业微信机器人框架设计:
-![design](./design.png)
+![design](https://github.com/Warrior-li/WXRobotFrame/blob/main/ReadMeImage/design.png)
 
 企业微信机器人框架主要分为主动执行模块和提供HTTP接口被动接受模块。
 
